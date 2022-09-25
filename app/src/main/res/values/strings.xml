@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Menu</string>
+
+    <string name="volver">Volver</string>
+
+    <string name="saludar">Saludar</string>
+    <string name="contador">Contador</string>
+    <string name="conversor">USD a CLP</string>
+    <string name="formulario">Formulario</string>
+
+    <string name="nombre">Nombre</string>
+
+    <string name="contadorDefault">0</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="contar">+</string>
+
+    <string name="usd">USD</string>
+    <string name="clp">0 CLP</string>
+    <string name="convertir">Convertir</string>
+
+    <string name="apellido">Apellido</string>
+    <string name="telefono">Telefono</string>
+    <string name="accion">Acción</string>
+    <string name="despedir">Despedir</string>
+    <string name="confirmar">Confirmar</string>
+</resources>
